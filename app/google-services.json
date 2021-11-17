@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "374313359751",
+    "project_id": "online-classroom-2021",
+    "storage_bucket": "online-classroom-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374313359751:android:891a1e4c3ba80256ce9b22",
+        "android_client_info": {
+          "package_name": "com.jainamd.onlineclassroon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374313359751-shnn6isefoonqbi2iumilfvidlvm6e8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHd7Glh01cEvswzUWE-AngcyjnBR_w3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374313359751-shnn6isefoonqbi2iumilfvidlvm6e8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374313359751:android:8305f75ebd3e8022ce9b22",
+        "android_client_info": {
+          "package_name": "com.jainamd.shiksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374313359751-shnn6isefoonqbi2iumilfvidlvm6e8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHd7Glh01cEvswzUWE-AngcyjnBR_w3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374313359751-shnn6isefoonqbi2iumilfvidlvm6e8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
