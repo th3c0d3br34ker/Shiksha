@@ -10,10 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Shiksha">
         <activity
-            android:name=".faculty.PostMarksActivity"
+            android:name=".faculty.marks.PostMarksActivity"
+            android:label="Shiksha | Post Marks"
             android:exported="false" />
         <activity
             android:name=".faculty.FacultyDashboardActivity"
+            android:exported="false" />
+	<activity
+            android:name=".faculty.attendance.PostAttendanceActivity"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"

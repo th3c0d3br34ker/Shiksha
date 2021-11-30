@@ -62,8 +62,10 @@ public class StudentCourseAdapter extends RecyclerView.Adapter<StudentCourseAdap
 
             if (student_course_item_collapse.getVisibility() == View.GONE) {
                 toggle_item.setImageResource(R.drawable.ic_close);
+                student_course_item_collapse.setVisibility(View.VISIBLE);
             } else {
                 toggle_item.setImageResource(R.drawable.ic_open);
+                student_course_item_collapse.setVisibility(View.GONE);
             }
 
             toggle_item.setOnClickListener(view -> {
